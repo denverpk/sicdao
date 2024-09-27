@@ -1,2 +1,2 @@
 # sicdao
-This is the alpha lets contribute
+This is the alpha let us contribute something creative.
